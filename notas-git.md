@@ -12,3 +12,8 @@ y ya hasta ahora
 tambien aprendi que se cambar entre ramas es con git switch nombre
 y para crear git switch -c la c es de crear y el nombre de la rama y para unirla al main es git merge y el nombre de
 la rama que quieres fusionar
+entonces ahora estoy creando un gitignore con las siguientes lineas
+.venv/ ignora mi entorno virtual
+("**pycache**/" ) ignora los archivos temporales que genera python
+.env ingora las claves
+ahora vamos a aprender a instalarlo
