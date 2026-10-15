@@ -17,3 +17,8 @@ entonces ahora estoy creando un gitignore con las siguientes lineas
 ("**pycache**/" ) ignora los archivos temporales que genera python
 .env ingora las claves
 ahora vamos a aprender a instalarlo
+bueno termine la instalacion despues de confundirme como 3 veces que hice primero descargue venv que es como un entorno virtual con el comando python -m venv .venv
+lo active con .venv\Scripts\Activate.ps1
+y descargue las librerias pip install requests
+y vi lo que descargo pip list hasta ahora eso
+deactivate es para salir del modo entorno
