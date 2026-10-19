@@ -4,7 +4,7 @@ y regreso con el comando c.. creo archivos con ni
 veo los archivos con ls y tambien muevo con mv y borro con rm
 y veo donde estoy con pwd tambien que si creo un git init es como iniciar el git en una carpeta
 esto no me lo he aprendido pero me imagino que con la practica lo aprendo y este comando que crea
-la rama principal git --global init.defaultBranch main es como lo que no me he aprendido
+la rama principal git config --global init.defaultBranch main es como lo que no me he aprendido
 despues con git status veo el estado de todos los archivos
 con git add es como empacar un archivo en una caja y git commit -m es como sellar esa caja
 git log --oneline me muestra los cambios registrados en una lista
@@ -22,3 +22,8 @@ lo active con .venv\Scripts\Activate.ps1
 y descargue las librerias pip install requests
 y vi lo que descargo pip list hasta ahora eso
 deactivate es para salir del modo entorno
+bueno por ultimo creamos un repositorio
+git remote add y el link del repositorio y se queda conectado
+y despues hacemos un git push -u origin main
+-u origin main es para que lo recuerde siempre y solo sea git push
+go
