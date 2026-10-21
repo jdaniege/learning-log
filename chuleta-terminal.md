@@ -23,3 +23,11 @@ OPERADORES
 
 orden de las operaciones \*_, luego _ / // %, luego + -. los parentesis mandan 2 + 3 _ 4 da 14 pero si hacemos ( 2 + 3 ) _ 4 da 20
 y los f-strings mezclan textos y variables de forma simple y limpia para que no haya tanta rebundancia dentro del documento y sea claro y legible
+
+== igual a
+!= distinto de
+
+> mayor que
+> < menor que
+> = mayor igual que
+> <= menor igual que
